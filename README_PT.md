@@ -128,7 +128,7 @@ Também pode ser usado para projetos greenfield, mas o maior impacto é em bases
 2. Abra o GitHub Copilot Chat.
 3. Selecione **Plan Mode**.
 4. Use um modelo de raciocínio forte (Claude Sonnet, GPT Codex, ou AUTO).
-5. Execute o conteúdo de [github-copilot-pt.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)
+5. Copie o conteúdo de [github-copilot-pt.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md), cole no chat, envie e aguarde.
 6. Pronto — sempre que quiser que o Copilot atue de forma mais inteligente e estruturada, selecione o agente **Orchestrator** e comece sua solicitação por lá.
 
 A configuração irá:
@@ -142,13 +142,9 @@ A configuração irá:
 
 ---
 
-## 📚 Guia de Uso do Copilot
+## 📚 Como o Copilot vai se nortear
 
-O modelo de uso recomendado após a configuração está documentado em:
-
-👉 **[github-copilot-pt.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)**
-
-Esse documento explica:
+Por meio das instruções contidas em **[github-copilot-pt.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)** o modelo escolhido para processamento do plano vai atuar com os seguintes tópicos para produzir a estrutura de inteligência em seu projeto legado. 
 
 * Qual modelo usar
 * Quando usar o Plan Mode

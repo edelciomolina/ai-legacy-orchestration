@@ -128,7 +128,7 @@ It can also be used for greenfield projects, but the biggest impact is in existi
 2. Open GitHub Copilot Chat.
 3. Select **Plan Mode**.
 4. Use a strong reasoning model (Claude Sonnet, GPT Codex, or AUTO).
-5. Execute the contents of [github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)
+5. Copy the contents of [github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md), paste it into the chat, send, and wait.
 6. All set — whenever you want Copilot to act more intelligently and in a structured way, select the **Orchestrator** agent and start your request there.
 
 The setup will:
@@ -142,19 +142,16 @@ The setup will:
 
 ---
 
-## 📚 Copilot Usage Guide
 
-The recommended usage model after setup is documented in:
+## 📚 How Copilot Will Navigate
 
-👉 **[github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)**
-
-That document explains:
+Through the instructions contained in **[github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)**, the model chosen for plan processing will operate with the following topics to produce the intelligence structure in your legacy project.
 
 * Which model to use
 * When to use Plan Mode
 * How to start via the Orchestrator
 * When to create an ADR
-* When to update DevLog
+* When to update the DevLog
 * The recommended workflow
 
 ---
