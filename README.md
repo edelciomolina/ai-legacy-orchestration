@@ -6,7 +6,8 @@
 
 ![AI Legacy Orchestration Overview](output_en.png)
  
-AI Legacy Orchestration is a structured process for organizing the use of GitHub Copilot in existing repositories - especially legacy codebases - by introducing:
+AI Legacy Orchestration is a practical guide that leverages GitHub Copilot's native capabilities to prepare your legacy project for intelligent, safe, and hallucination-resistant work in legacy codebases by introducing:
+
 
 * Explicit agent orchestration
 * Always-on governance rules
