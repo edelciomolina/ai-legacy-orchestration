@@ -1,7 +1,11 @@
-# AI Legacy Orchestration
-> Created by Edelcio Molina to bring structure to AI-assisted legacy development — see [motivation.md](motivation.md)
- 
 
+<kbd>English</kbd> | <kbd>[Português](README_PT.md)</kbd>
+
+# 🤖 AI Legacy Orchestration
+> Created by Edelcio Molina to bring structure to AI-assisted legacy development — see [my motivation](motivation.md)
+
+![AI Legacy Orchestration Overview](output_en.png)
+ 
 AI Legacy Orchestration is a structured process for organizing the use of GitHub Copilot in existing repositories — especially legacy codebases — by introducing:
 
 * Explicit agent orchestration
@@ -16,7 +20,7 @@ It is a method for structuring how AI is used in real projects.
 
 ---
 
-## The Current Problem
+## 🚧 The Current Problem
 
 Most teams use AI like this:
 
@@ -36,7 +40,7 @@ This project proposes a minimal structure to bring discipline to AI usage.
 
 ---
 
-## What This Process Adds to Your Repository
+## 🧰 What This Process Adds to Your Repository
 
 After applying the setup, your repository includes:
 
@@ -51,7 +55,7 @@ docs/
  └── devlog/
 ```
 
-### `.github/agents/`
+### 🧑‍💼 `.github/agents/`
 
 Defines agents with explicit responsibilities:
 
@@ -60,7 +64,7 @@ Defines agents with explicit responsibilities:
 * `reviewer.agent.md`
 * specialized agents (when applicable)
 
-### `.github/instructions/`
+### 📜 `.github/instructions/`
 
 Contains:
 
@@ -68,17 +72,17 @@ Contains:
 * `global.instruction.md` (always active)
 * optional contextual instructions
 
-### `docs/adr/`
+### 🧠 `docs/adr/`
 
 Records relevant architectural decisions.
 
-### `docs/devlog/`
+### 📝 `docs/devlog/`
 
 Records relevant functional changes.
 
 ---
 
-## How It Works
+## ⚙️ How It Works
 
 Every request follows this flow:
 
@@ -104,7 +108,7 @@ It is to:
 
 ---
 
-## When to Use It
+## ✅ When to Use It
 
 Recommended for:
 
@@ -118,13 +122,14 @@ It can also be used for greenfield projects, but the biggest impact is in existi
 
 ---
 
-## How to Apply
+## 🚀 How to Apply
 
 1. Open the repository in VS Code.
 2. Open GitHub Copilot Chat.
 3. Select **Plan Mode**.
 4. Use a strong reasoning model (Claude Sonnet, GPT Codex, or AUTO).
-5. Execute the contents of [github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)  <kbd>[pt-BR](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)</kbd>.
+5. Execute the contents of [github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)
+6. All set — whenever you want Copilot to act more intelligently and in a structured way, select the **Orchestrator** agent and start your request there.
 
 The setup will:
 
@@ -137,11 +142,11 @@ The setup will:
 
 ---
 
-## Copilot Usage Guide
+## 📚 Copilot Usage Guide
 
 The recommended usage model after setup is documented in:
 
-👉 **[github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)** <kbd>[pt-BR](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)</kbd>
+👉 **[github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)**
 
 That document explains:
 
@@ -154,7 +159,7 @@ That document explains:
 
 ---
 
-## What This Project Is Not
+## 🚫 What This Project Is Not
 
 * It is not a replacement for architecture.
 * It is not a coding framework.
@@ -163,7 +168,7 @@ That document explains:
 
 ---
 
-## Objective
+## 🎯 Objective
 
 Introduce a minimal layer of structure to AI usage in real repositories.
 
