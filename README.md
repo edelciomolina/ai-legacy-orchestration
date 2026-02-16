@@ -124,7 +124,7 @@ It can also be used for greenfield projects, but the biggest impact is in existi
 2. Open GitHub Copilot Chat.
 3. Select **Plan Mode**.
 4. Use a strong reasoning model (Claude Sonnet, GPT Codex, or AUTO).
-5. Execute the contents of [github-copilot-en.md](github-copilot-en.md)  <kbd>[pt-BR](github-copilot-pt.md)</kbd>.
+5. Execute the contents of [github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)  <kbd>[pt-BR](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)</kbd>.
 
 The setup will:
 
@@ -141,7 +141,7 @@ The setup will:
 
 The recommended usage model after setup is documented in:
 
-👉 **[github-copilot-en.md](./github-copilot-en.md)** <kbd>[pt-BR](./github-copilot-pt.md)</kbd>
+👉 **[github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md)** <kbd>[pt-BR](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-pt.md)</kbd>
 
 That document explains:
 
