@@ -2,7 +2,7 @@
 <kbd>English</kbd> | <kbd>[Português](README_PT.md)</kbd>
 
 # 🤖 AI Legacy Orchestration
-> Created by Edelcio Molina to bring structure to AI-assisted legacy development - see [my motivation](motivation.md)
+> Created by Edelcio Molina to bring structure to AI-assisted legacy development - see [my motivation](MOTIVATION.MD)
 
 ![AI Legacy Orchestration Overview](output_en.png)
  
