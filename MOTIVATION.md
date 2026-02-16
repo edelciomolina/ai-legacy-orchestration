@@ -17,7 +17,7 @@ AI tools like **GitHub Copilot** dramatically increase development speed. But in
 * Growing technical entropy
 * Over-reliance on implicit knowledge
 
-In complex environments — especially those that must remain stable while evolving — AI can either amplify discipline or amplify disorder.
+In complex environments - especially those that must remain stable while evolving - AI can either amplify discipline or amplify disorder.
 
 **This project was created as a response to that reality.**
 

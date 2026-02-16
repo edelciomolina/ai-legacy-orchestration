@@ -2,11 +2,11 @@
 <kbd>English</kbd> | <kbd>[Português](README_PT.md)</kbd>
 
 # 🤖 AI Legacy Orchestration
-> Created by Edelcio Molina to bring structure to AI-assisted legacy development — see [my motivation](motivation.md)
+> Created by Edelcio Molina to bring structure to AI-assisted legacy development - see [my motivation](motivation.md)
 
 ![AI Legacy Orchestration Overview](output_en.png)
  
-AI Legacy Orchestration is a structured process for organizing the use of GitHub Copilot in existing repositories — especially legacy codebases — by introducing:
+AI Legacy Orchestration is a structured process for organizing the use of GitHub Copilot in existing repositories - especially legacy codebases - by introducing:
 
 * Explicit agent orchestration
 * Always-on governance rules
@@ -129,7 +129,7 @@ It can also be used for greenfield projects, but the biggest impact is in existi
 3. Select **Plan Mode**.
 4. Use a strong reasoning model (Claude Sonnet, GPT Codex, or AUTO).
 5. Copy the contents of [github-copilot-en.md](https://raw.githubusercontent.com/edelciomolina/ai-legacy-orchestration/refs/heads/main/github-copilot-en.md), paste it into the chat, send, and wait.
-6. All set — whenever you want Copilot to act more intelligently and in a structured way, select the **Orchestrator** agent and start your request there.
+6. All set - whenever you want Copilot to act more intelligently and in a structured way, select the **Orchestrator** agent and start your request there.
 
 The setup will:
 
@@ -161,7 +161,7 @@ Through the instructions contained in **[github-copilot-en.md](https://raw.githu
 * It is not a replacement for architecture.
 * It is not a coding framework.
 * It is not a compliance automation system.
-* It does not prevent bad decisions — it makes them explicit.
+* It does not prevent bad decisions - it makes them explicit.
 
 ---
 

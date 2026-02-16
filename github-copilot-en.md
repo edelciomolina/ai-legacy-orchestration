@@ -23,7 +23,7 @@ Hard limits:
   - global.instructions.md
 
 ------------------------------------------------------------
-PHASE 0 — REPOSITORY DETECTION (READ-ONLY)
+PHASE 0 - REPOSITORY DETECTION (READ-ONLY)
 ------------------------------------------------------------
 
 Detect:
@@ -61,7 +61,7 @@ D) Detect responsibilities by structural evidence:
 Do not create files yet.
 
 ------------------------------------------------------------
-PHASE 1 — BRAIN STRUCTURE DECISION
+PHASE 1 - BRAIN STRUCTURE DECISION
 ------------------------------------------------------------
 
 We will create:
@@ -123,7 +123,7 @@ Contextual instruction files only if relevant:
 Max contextual files: 6.
 
 ------------------------------------------------------------
-PHASE 1.5 — AUTO-ADR POLICY
+PHASE 1.5 - AUTO-ADR POLICY
 ------------------------------------------------------------
 
 If any structural ambiguity requires decision:
@@ -154,7 +154,7 @@ Include:
 If no ambiguity exists, do NOT create ADR.
 
 ------------------------------------------------------------
-PHASE 2 — IMPLEMENTATION
+PHASE 2 - IMPLEMENTATION
 ------------------------------------------------------------
 
 ============================================================
@@ -372,7 +372,7 @@ Include:
   - [ ] Testes adicionados?
 
 ------------------------------------------------------------
-PHASE 3 — FINAL VALIDATION
+PHASE 3 - FINAL VALIDATION
 ------------------------------------------------------------
 
 Ensure:

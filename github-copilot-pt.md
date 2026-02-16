@@ -23,7 +23,7 @@ Limites rígidos:
   - global.instructions.md
 
 ------------------------------------------------------------
-FASE 0 — DETECÇÃO DE REPOSITÓRIO (SOMENTE LEITURA)
+FASE 0 - DETECÇÃO DE REPOSITÓRIO (SOMENTE LEITURA)
 ------------------------------------------------------------
 
 Detectar:
@@ -61,7 +61,7 @@ D) Detectar responsabilidades por evidência estrutural:
 Não crie arquivos ainda.
 
 ------------------------------------------------------------
-FASE 1 — DECISÃO DE ESTRUTURA BRAIN
+FASE 1 - DECISÃO DE ESTRUTURA BRAIN
 ------------------------------------------------------------
 
 Criaremos:
@@ -123,7 +123,7 @@ Arquivos de instrução contextual apenas se relevante:
 Máximo de arquivos contextuais: 6.
 
 ------------------------------------------------------------
-FASE 1.5 — POLÍTICA AUTO-ADR
+FASE 1.5 - POLÍTICA AUTO-ADR
 ------------------------------------------------------------
 
 Se qualquer ambiguidade estrutural exigir decisão:
@@ -154,7 +154,7 @@ Incluir:
 Se não houver ambiguidade, NÃO crie ADR.
 
 ------------------------------------------------------------
-FASE 2 — IMPLEMENTAÇÃO
+FASE 2 - IMPLEMENTAÇÃO
 ------------------------------------------------------------
 
 ============================================================
@@ -372,7 +372,7 @@ Incluir:
   - [ ] Testes adicionados?
 
 ------------------------------------------------------------
-FASE 3 — VALIDAÇÃO FINAL
+FASE 3 - VALIDAÇÃO FINAL
 ------------------------------------------------------------
 
 Garantir:

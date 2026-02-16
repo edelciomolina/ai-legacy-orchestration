@@ -17,7 +17,7 @@ Ferramentas de IA como o **GitHub Copilot** aumentam dramaticamente a velocidade
 * Crescimento da entropia técnica
 * Dependência excessiva de conhecimento implícito
 
-Em ambientes complexos — especialmente aqueles que devem permanecer estáveis enquanto evoluem — a IA pode amplificar tanto disciplina quanto desordem.
+Em ambientes complexos - especialmente aqueles que devem permanecer estáveis enquanto evoluem - a IA pode amplificar tanto disciplina quanto desordem.
 
 **Este projeto foi criado como resposta a essa realidade.**
 
