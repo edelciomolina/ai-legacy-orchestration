@@ -1,4 +1,6 @@
 # AI Legacy Orchestration
+> Created by Edelcio Molina to bring structure to AI-assisted legacy development — see [motivation.md](motivation.md)
+ 
 
 AI Legacy Orchestration is a structured process for organizing the use of GitHub Copilot in existing repositories — especially legacy codebases — by introducing:
 
@@ -122,7 +124,7 @@ It can also be used for greenfield projects, but the biggest impact is in existi
 2. Open GitHub Copilot Chat.
 3. Select **Plan Mode**.
 4. Use a strong reasoning model (Claude Sonnet, GPT Codex, or AUTO).
-5. Execute the contents of `Setup-BrainAI.md`.
+5. Execute the contents of [github-copilot-en.md](github-copilot-en.md)  <kbd>[pt-BR](github-copilot-pt.md)</kbd>.
 
 The setup will:
 
@@ -139,7 +141,7 @@ The setup will:
 
 The recommended usage model after setup is documented in:
 
-👉 **[github-copilot.md](./github-copilot.md)**
+👉 **[github-copilot-en.md](./github-copilot-en.md)** <kbd>[pt-BR](./github-copilot-pt.md)</kbd>
 
 That document explains:
 
